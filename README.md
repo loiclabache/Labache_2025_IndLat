@@ -103,6 +103,10 @@ All the data necessary to reproduce the results are available in the
 
 ## Other related papers that might interest you
 
+- Typical and atypical language brain organization based on intrinsic
+  connectivity and multitask functional asymmetries. Labache, L., et
+  al. 2020. DOI:
+  [10.7554/eLife.58722](https://doi.org/10.7554/eLife.58722)
 - Lateralized visuospatial Attentional Networks; Labache, L., et
   al. 2024. DOI:
   [10.1162/imag_a_00208](https://doi.org/10.1162/imag_a_00208), and

@@ -54,6 +54,7 @@ All the data necessary to reproduce the results are available in the `Data` fold
 
 ## Other related papers that might interest you {#other-related-papers-that-might-interest-you}
 
+-   Typical and atypical language brain organization based on intrinsic connectivity and multitask functional asymmetries. Labache, L., et al. 2020. DOI: [10.7554/eLife.58722](https://doi.org/10.7554/eLife.58722)
 -   Lateralized visuospatial Attentional Networks; Labache, L., et al. 2024. DOI: [10.1162/imag_a_00208](https://doi.org/10.1162/imag_a_00208), and related GitHub repository: [ALANs](https://github.com/loiclabache/ALANs_brainAtlas)
 -   Lateralized Underpinnings of Comparison and Arithmetic atlas; Labache, L. 2015. DOI: [Zenedo](Zenedo), and related GitHub repository: [LUCA](https://github.com/loiclabache/LUCA_brainAtlas)
 -   Sentence Supramodal Areas Atlas; Labache, L., et al. 2019. DOI: [10.1007/s00429-018-1810-2](https://doi.org/10.1007/s00429-018-1810-2), and related GitHub repository: [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas)
