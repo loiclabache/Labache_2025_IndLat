@@ -32,7 +32,11 @@ For usage of the ***manuscript***, please cite:
 
 For usage of the associated ***code***, please also cite:
 
-<!-- -   **Labache, L.** (2025). Independent Lateralization of Language, Attention, and Numerical Cognition Across Task and Rest. loiclabache/Labache_2025_IndLat DOI: [10.5281/zenodo.15207454](https://zenodo.org/doi/10.5281/zenodo.15207454) -->
+<!-- -   **Labache, L.** (2025). loiclabache/LUCA_brainAtlas: Lateralized Underpinnings of Comparison and Arithmetic atlas (LUCA) (Labache_2025_LUCA_251130). Zenodo.DOI: [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073) -->
+
+For usage of the associated [***atlas***](https://github.com/loiclabache/LUCA_brainAtlas/tree/main?tab=readme-ov-file), please also cite:
+
+-   **Labache, L.** (2025). loiclabache/LUCA_brainAtlas: Lateralized Underpinnings of Comparison and Arithmetic atlas (LUCA) (Labache_2025_LUCA_251130). Zenodo.DOI: [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073)
 
 ------------------------------------------------------------------------
 
@@ -56,7 +60,7 @@ All the data necessary to reproduce the results are available in the `Data` fold
 
 -   Typical and atypical language brain organization based on intrinsic connectivity and multitask functional asymmetries. Labache, L., et al. 2020. DOI: [10.7554/eLife.58722](https://doi.org/10.7554/eLife.58722)
 -   Lateralized visuospatial Attentional Networks; Labache, L., et al. 2024. DOI: [10.1162/imag_a_00208](https://doi.org/10.1162/imag_a_00208), and related GitHub repository: [ALANs](https://github.com/loiclabache/ALANs_brainAtlas)
--   Lateralized Underpinnings of Comparison and Arithmetic atlas; Labache, L. 2015. DOI: [Zenedo](Zenedo), and related GitHub repository: [LUCA](https://github.com/loiclabache/LUCA_brainAtlas)
+-   Lateralized Underpinnings of Comparison and Arithmetic atlas; Labache, L. 2015. DOI: [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073), and related GitHub repository: [LUCA](https://github.com/loiclabache/LUCA_brainAtlas)
 -   Sentence Supramodal Areas Atlas; Labache, L., et al. 2019. DOI: [10.1007/s00429-018-1810-2](https://doi.org/10.1007/s00429-018-1810-2), and related GitHub repository: [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas)
 -   Influence of Language Lateralisation on Gradient Asymmetry: Labache, L., et al. 2023. DOI: [10.1038/s41467-023-39131-y](https://doi.org/10.1038/s41467-023-39131-y), and related GitHub repository: [Labache_2022_AO](https://github.com/loiclabache/Labache_2022_AO)
 -   The molecular and cellular underpinnings of human brain lateralization: Labache, L., et al. 2025. DOI: [10.1101/2025.04.11.648388](https://doi.org/10.1101/2025.04.11.648388), and related GitHub repository: [Labache_2025_MolCelLat](https://github.com/loiclabache/Labache_2025_MolCelLat)

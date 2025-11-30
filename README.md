@@ -62,7 +62,16 @@ For usage of the ***manuscript***, please cite:
 
 For usage of the associated ***code***, please also cite:
 
-<!-- -   **Labache, L.** (2025). Independent Lateralization of Language, Attention, and Numerical Cognition Across Task and Rest. loiclabache/Labache_2025_IndLat DOI: [10.5281/zenodo.15207454](https://zenodo.org/doi/10.5281/zenodo.15207454) -->
+<!-- -   **Labache, L.** (2025). loiclabache/LUCA_brainAtlas: Lateralized Underpinnings of Comparison and Arithmetic atlas (LUCA) (Labache_2025_LUCA_251130). Zenodo.DOI: [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073) -->
+
+For usage of the associated
+[***atlas***](https://github.com/loiclabache/LUCA_brainAtlas/tree/main?tab=readme-ov-file),
+please also cite:
+
+- **Labache, L.** (2025). loiclabache/LUCA_brainAtlas: Lateralized
+  Underpinnings of Comparison and Arithmetic atlas (LUCA)
+  (Labache_2025_LUCA_251130). Zenodo.DOI:
+  [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073)
 
 ------------------------------------------------------------------------
 
@@ -113,8 +122,10 @@ All the data necessary to reproduce the results are available in the
   related GitHub repository:
   [ALANs](https://github.com/loiclabache/ALANs_brainAtlas)
 - Lateralized Underpinnings of Comparison and Arithmetic atlas;
-  Labache, L. 2015. DOI: [Zenedo](Zenedo), and related GitHub
-  repository: [LUCA](https://github.com/loiclabache/LUCA_brainAtlas)
+  Labache, L. 2015. DOI:
+  [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073),
+  and related GitHub repository:
+  [LUCA](https://github.com/loiclabache/LUCA_brainAtlas)
 - Sentence Supramodal Areas Atlas; Labache, L., et al. 2019. DOI:
   [10.1007/s00429-018-1810-2](https://doi.org/10.1007/s00429-018-1810-2),
   and related GitHub repository:
