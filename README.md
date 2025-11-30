@@ -2,7 +2,7 @@ Independent Lateralization of Language, Attention, and Numerical
 Cognition Across Task and Rest
 ================
 
-<!-- [![DOI](https://zenodo.org/badge/965483781.svg)](https://doi.org/10.5281/zenodo.15207453) -->
+[![DOI](https://zenodo.org/badge/1104787223.svg)](https://doi.org/10.5281/zenodo.17771776)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,10 @@ For usage of the ***manuscript***, please cite:
 
 For usage of the associated ***code***, please also cite:
 
-<!-- -   **Labache, L.** (2025). loiclabache/LUCA_brainAtlas: Lateralized Underpinnings of Comparison and Arithmetic atlas (LUCA) (Labache_2025_LUCA_251130). Zenodo.DOI: [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073) -->
+- **Labache, L.** (2025). loiclabache/Labache_2025_IndLat: Independent
+  Lateralization of Language, Attention, and Numerical Cognition Across
+  Task and Rest (Labache_2025_IndLat_251130). Zenodo.DOI:
+  [10.5281/zenodo.17771776](https://doi.org/10.5281/zenodo.17771776)
 
 For usage of the associated
 [***atlas***](https://github.com/loiclabache/LUCA_brainAtlas/tree/main?tab=readme-ov-file),
