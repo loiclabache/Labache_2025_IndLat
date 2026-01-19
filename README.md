@@ -148,5 +148,4 @@ All the data necessary to reproduce the results are available in the
 
 ## Questions
 
-Please contact me (Loïc Labache) at: <loic.labache@rutgers.edu> and/or
-<loic.labache@ensc.fr>
+Please contact me (Loïc Labache) at: <loic.labache@rutgers.edu>

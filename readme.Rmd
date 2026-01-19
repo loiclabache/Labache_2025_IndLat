@@ -69,4 +69,4 @@ All the data necessary to reproduce the results are available in the `Data` fold
 
 ## Questions {#questions}
 
-Please contact me (Loïc Labache) at: [loic.labache\@rutgers.edu](mailto:loic.labache@rutgers.edu){.email} and/or [loic.labache\@ensc.fr](mailto:loic.labache@ensc.fr){.email}
+Please contact me (Loïc Labache) at: [loic.labache\@rutgers.edu](mailto:loic.labache@rutgers.edu){.email}
